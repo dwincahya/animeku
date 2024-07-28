@@ -1,0 +1,50 @@
+.myBG {
+    height: 100vh;
+    background: url(../assets/img/bg/bg.png);
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.tittle {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.Film {
+    background: url(../assets/img/bg/movies.jpg);
+    background-size: cover;
+}
+
+.Series {
+    height: auto;
+    background: url(../assets/img/bg/series.jpeg);
+    background-size: cover;
+}
+
+.movieWrapper {
+    height: auto;
+}
+
+.movieImg {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Images {
+    height: 500px;
+}
+
+.container {
+    padding-bottom: 2rem;
+}
